@@ -2,8 +2,7 @@
 publish: true
 artist:
   - Charli xcx
-genre:
-  - Pop
+genre: Hyperpop/Club
 release_year: 2024
 album_score: 9.5
 tags:
@@ -12,10 +11,11 @@ tags:
   - pop/electronic
   - club
   - dance
+  - british
 ---
 ## [[music/artists/Charli xcx|Charli xcx]]
 
-![](https://upload.wikimedia.org/wikipedia/commons/6/60/Charli_XCX_-_Brat_%28album_cover%29.png)
+![[_metadata/attachments/brat_album_cover.png|300x300]]
 ## Tracklist
 | Track Name                    | Score | Favorites |
 | ----------------------------- | ----- | --------- |

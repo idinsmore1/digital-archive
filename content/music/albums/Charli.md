@@ -2,8 +2,7 @@
 publish: true
 artist:
   - Charli xcx
-genre:
-  - Pop
+genre: Hyperpop
 release_year: 2019
 album_score: 8.7
 tags:
@@ -12,6 +11,7 @@ tags:
   - hyperpop
   - "#futuristic"
   - "#glitchy"
+  - british
 ---
 ## [[music/artists/Charli xcx|Charli xcx]]
 

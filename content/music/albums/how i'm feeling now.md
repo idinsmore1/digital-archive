@@ -2,14 +2,14 @@
 publish: true
 artist:
   - Charli xcx
-genre:
-  - Pop
+genre: Hyperpop
 release_year: 2020
 album_score: 7.7
 tags:
   - pop/electronic
   - hyperpop
   - emotional
+  - british
 ---
 ## [[music/artists/Charli xcx|Charli xcx]]
 

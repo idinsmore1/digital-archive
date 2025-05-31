@@ -1,17 +1,14 @@
 ---
 publish: true
-artist:
-  - blank
-genre:
-  - blank
-release_year: 0
-album_score: 0
-tags:
-  - "#blank"
+artist: 
+genre: 
+release_year: 
+album_score: 
+tags: []
 ---
 ## Artist
 
-![album_cover]()
+![[]]
 
 ## Tracklist
 
