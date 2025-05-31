@@ -1,7 +1,7 @@
 ---
 publish: true
-artist:
-  - Charli xcx
+artist: Charli xcx
+artist_link: "[[music/artists/Charli xcx|Charli xcx]]"
 genre: Hyperpop/Club
 release_year: 2024
 album_score: 9.5

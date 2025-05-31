@@ -1,14 +1,15 @@
 ---
 publish: true
 artist: 
+artist_link: 
 genre: 
 release_year: 
 album_score: 
-tags: []
+tags:
 ---
 ## Artist
 
-![[]]
+link goes here
 
 ## Tracklist
 

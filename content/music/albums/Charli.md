@@ -1,7 +1,7 @@
 ---
 publish: true
-artist:
-  - Charli xcx
+artist: Charli xcx
+artist_link: "[[music/artists/Charli xcx|Charli xcx]]"
 genre: Hyperpop
 release_year: 2019
 album_score: 8.7
