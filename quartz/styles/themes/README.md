@@ -1,10 +1,10 @@
-# Material Gruvbox
+# Everforest
 
-[Material Gruvbox](https://github.com/AllJavi)
+[Everforest](#)
 
 ## Preview
 
-[Open live preview](https://quartz-themes.github.io/material-gruvbox/)
+[Open live preview](https://quartz-themes.github.io/everforest/)
 
 ## Usage
 
@@ -12,7 +12,7 @@
 
 ```yaml
 env:
-  THEME_NAME: material-gruvbox
+  THEME_NAME: everforest
 ```
 
 ```yaml
@@ -25,7 +25,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh material-gruvbox
+./action.sh everforest
 ```
 
 ### Install script (Advanced)
@@ -33,5 +33,5 @@ curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-them
 After installing:
 
 ```bash
-npm run theme material-gruvbox
+npm run theme everforest
 ```

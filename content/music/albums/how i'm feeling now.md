@@ -10,11 +10,13 @@ tags:
   - hyperpop
   - emotional
   - british
+aoty:
 ---
 ## [[music/artists/Charli xcx|Charli xcx]]
 
-![](https://upload.wikimedia.org/wikipedia/en/b/bd/Charli_XCX_-_How_I%27m_Feeling_Now.png)
+[Check it out on Spotify](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu?si=VGa4uNg5REO6f6KFmDE2Sg)
 
+![[how_im_feeling_now.jpg|300x300]]
 ## Tracklist
 
 | Track Name           | Score | Favorites |
@@ -33,4 +35,4 @@ tags:
 | **Album Score**      | 7.7   |           |
 
 ## Review
-A really great album by Charli that is brought down by 2 songs that I really don't care for too much in pink diamond and anthems. Other than that, this has so many catchy and emotionally hitting songs, which just seems to be Charli's best style of music. The middle run of this album from `forever` to `c2.0` is just banger after banger. 
+A really great album by Charli that is brought down by 2 songs that I really don't care for too much in pink diamond and anthems. Other than that, this has so many catchy and emotionally hitting songs, which just seems to be Charli's best style of music. The middle run of this album from "forever" to "c2.0" is just banger after banger. 

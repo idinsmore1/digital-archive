@@ -5,11 +5,13 @@ artist_link:
 genre: 
 release_year: 
 album_score: 
-tags:
+tags: 
+aoty:
 ---
 ## Artist
 
-link goes here
+[Check it out on Spotify]()  
+album art goes here
 
 ## Tracklist
 

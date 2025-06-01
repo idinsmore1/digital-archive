@@ -12,10 +12,13 @@ tags:
   - "#futuristic"
   - "#glitchy"
   - british
+aoty:
 ---
 ## [[music/artists/Charli xcx|Charli xcx]]
 
-![](https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Charli_XCX_-_Charli.png/250px-Charli_XCX_-_Charli.png)
+[Check it out on Spotify](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj?si=zX0XpWy3Qpmg9oAjI245zg)  
+![[charli_album_cover.png|300x300]]
+
 
 ## Tracklist
 
