@@ -10,7 +10,7 @@ aoty:
 ---
 ## Artist
 
-[Check it out on Spotify]()  
+[Check it out on Spotify](open.spotify.com)  
 album art goes here
 
 ## Tracklist
